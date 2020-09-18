@@ -1,6 +1,6 @@
 <h1> :iphone: BarCode Reader Tool :iphone: </h1>
 
-<center><img src="assets/demo.jpeg" width="35%"></center>
+<center><img src="assets/demo.jpeg" width="45%"></center>
 
 
 ## About this project
@@ -23,3 +23,4 @@ Clone this repository running the command: `$ git clone https://github.com/rnanc
 Then run:
 
 `$ yarn`
+
