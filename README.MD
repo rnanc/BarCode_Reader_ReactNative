@@ -1,6 +1,8 @@
 <h1> :iphone: BarCode Reader Tool :iphone: </h1>
 
-<center><img src="assets/demo.jpeg" width="45%"></center>
+<p align:"center">
+  <img src="assets/demo.jpeg" width="45%">
+</p>
 
 
 ## About this project
