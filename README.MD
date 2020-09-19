@@ -26,3 +26,6 @@ Then run:
 
 `$ yarn`
 
+Now you can install it in your `android` or `ios` device by connecting it to your computer and running:
+
+`$ yarn android` or `$ yarn ios`
